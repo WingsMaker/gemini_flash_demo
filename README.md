@@ -11,8 +11,10 @@ copy-paste the content onto the google script project<br>
 #### Step 3<br>
   goto <a href='https://aistudio.google.com/api-keys'>Google Ai Studio</a> to get  get a free api key<br>
   goto the google app script project setting, goto script properties section to add a property name as "GEMINI_API_KEY".<br>
-  paste the api key value below screen<br>
 <img width="376" height="853" alt="image" src="https://github.com/user-attachments/assets/6aa896c4-fc50-428b-95eb-ebc24602d8a2" />
+<br>
+  paste the api key value below screen<br>
+<img width="650" height="80" alt="image" src="https://github.com/user-attachments/assets/52a1abe1-202a-43a0-b935-d0b37f91d807" />
 <br>
 
 <br>
