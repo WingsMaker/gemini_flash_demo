@@ -6,13 +6,14 @@ goto <a href='https://script.google.com/home'>google app script home</a> to crea
 #### Step 2<br>
 find the <a href='[https://raw.githubusercontent.com/WingsMaker/kimi-k3-demo/refs/heads/main/google_script.txt](https://raw.githubusercontent.com/WingsMaker/gemini_flash_demo/refs/heads/main/google_script.txt) '>google_script.txt</a> in this github<br>
 copy-paste the content onto the google script project<br>
-<img width="376" height="853" alt="image" src="https://github.com/user-attachments/assets/6aa896c4-fc50-428b-95eb-ebc24602d8a2" />
-
 <br>
-#### Step 3
+
+#### Step 3<br>
   goto <a href='https://aistudio.google.com/api-keys'>Google Ai Studio</a> to get  get a free api key<br>
-  goto the google app script project setting, goto script properties section to add a property name as "GEMINI_API_KEY".
+  goto the google app script project setting, goto script properties section to add a property name as "GEMINI_API_KEY".<br>
   paste the api key value below screen<br>
+<img width="376" height="853" alt="image" src="https://github.com/user-attachments/assets/6aa896c4-fc50-428b-95eb-ebc24602d8a2" />
+<br>
 
 <br>
 ### Step 4<br>
